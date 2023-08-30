@@ -353,3 +353,13 @@ https://github.com/whoIsOneZero/some-projects/tree/main/back2Dart/late
 
 **Link to work:**
 https://github.com/whoIsOneZero/some-projects/tree/main/back2Dart/late
+
+### Day 32: October 3, 2023.
+
+**Today's Progress**: Python Programming.
+- Hello, world.
+
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/whoIsOneZero/alx-higher_level_programming/tree/master/0x00-python-hello_world
