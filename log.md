@@ -363,3 +363,13 @@ https://github.com/whoIsOneZero/some-projects/tree/main/back2Dart/late
 
 **Link to work:**
 https://github.com/whoIsOneZero/alx-higher_level_programming/tree/master/0x00-python-hello_world
+
+### Day 33: October 4, 2023.
+
+**Today's Progress**: Python Programming.
+- if-else, and loops.
+
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/whoIsOneZero/alx-higher_level_programming/tree/master/0x01-python-if_else_loops_functions
