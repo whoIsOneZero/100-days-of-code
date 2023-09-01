@@ -2,7 +2,7 @@
 
 ### Day 0: September 1, 2023.
 
-**Today's Progress**:
+**Today's Progress**: Socket Programming.
 - Reviewed the OSI and TCP/IP models.
 - Difference between TCP and UDP.
 - Myths about TCP and UDP.
