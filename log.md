@@ -30,3 +30,13 @@
 **Thoughts:** PROGRESS!
 
 **Link to work:** https://github.com/whoIsOneZero/socket_prog_1
+
+### Day 3: September 4, 2023.
+
+**Today's Progress**: Socket Programming.
+- Learnt how to send and receive data between a client and a server.
+- The connection to the server still fails (connection timed out).
+
+**Thoughts:** Still need to try other alternatives.
+
+**Link to work:** https://github.com/whoIsOneZero/socket_prog_1
