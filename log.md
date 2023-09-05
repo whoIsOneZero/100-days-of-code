@@ -40,3 +40,12 @@
 **Thoughts:** Still need to try other alternatives.
 
 **Link to work:** https://github.com/whoIsOneZero/socket_prog_1
+
+### Day 4: September 5, 2023.
+
+**Today's Progress**: First Mini-Project
+- Built a command-line messaging app. Tested it on a local machine.
+
+**Thoughts:** Progress!
+
+**Link to work:** https://github.com/whoIsOneZero/socket_prog_1
