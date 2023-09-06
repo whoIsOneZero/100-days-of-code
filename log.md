@@ -10,7 +10,8 @@
 
 **Thoughts:** Need to get a book or a full course or something.
 
-**Link to work:** https://github.com/whoIsOneZero/socket_prog_1
+**Link to work:** 
+https://github.com/whoIsOneZero/socket_prog_1/tree/main/learning
 
 ### Day 1: September 2, 2023.
 
@@ -20,7 +21,8 @@
 
 **Thoughts:** Getting it little by little.
 
-**Link to work:** https://github.com/whoIsOneZero/socket_prog_1
+**Link to work:** 
+https://github.com/whoIsOneZero/socket_prog_1/tree/main/learning
 
 ### Day 2: September 3, 2023.
 
@@ -29,7 +31,8 @@
 
 **Thoughts:** PROGRESS!
 
-**Link to work:** https://github.com/whoIsOneZero/socket_prog_1
+**Link to work:**
+https://github.com/whoIsOneZero/socket_prog_1/tree/main/learning
 
 ### Day 3: September 4, 2023.
 
@@ -39,7 +42,8 @@
 
 **Thoughts:** Still need to try other alternatives.
 
-**Link to work:** https://github.com/whoIsOneZero/socket_prog_1
+**Link to work:** 
+https://github.com/whoIsOneZero/socket_prog_1/tree/main/learning
 
 ### Day 4: September 5, 2023.
 
@@ -49,4 +53,14 @@
 **Thoughts:** Progress!
 
 **Link to work:**
-https://github.com/whoIsOneZero/socket_prog_1/tree/main/chat_app
+https://github.com/whoIsOneZero/socket_prog_1/tree/main/cli-chat_app
+
+### Day 5: September 6, 2023.
+
+**Today's Progress**: Socket Programming.
+- Learnt how to resolve the IP address of a remote server, when provided the host name.
+
+**Thoughts:** Interesting stuff.
+
+**Link to work:** 
+https://github.com/whoIsOneZero/socket_prog_1/tree/main/learning
