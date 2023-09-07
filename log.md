@@ -64,3 +64,14 @@ https://github.com/whoIsOneZero/socket_prog_1/tree/main/cli-chat_app
 
 **Link to work:** 
 https://github.com/whoIsOneZero/socket_prog_1/tree/main/learning
+
+### Day 6: September 7, 2023.
+
+**Today's Progress**: Socket Programming.
+- Revisited shell scripting.
+
+**Thoughts:** N/A.
+
+**Link to work:**
+https://github.com/whoIsOneZero/internship_cybersec/tree/master/bash_scripting
+
