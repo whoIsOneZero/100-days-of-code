@@ -73,5 +73,4 @@ https://github.com/whoIsOneZero/socket_prog_1/tree/main/learning
 **Thoughts:** N/A.
 
 **Link to work:**
-https://github.com/whoIsOneZero/internship_cybersec/tree/master/bash_scripting
-
+https://github.com/whoIsOneZero/internship_cybersec/tree/master/bash_scripting/intro
