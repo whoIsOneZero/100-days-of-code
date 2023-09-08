@@ -74,3 +74,15 @@ https://github.com/whoIsOneZero/socket_prog_1/tree/main/learning
 
 **Link to work:**
 https://github.com/whoIsOneZero/internship_cybersec/tree/master/bash_scripting/intro
+
+### Day 7: September 8, 2023.
+
+**Today's Progress**: Social Engineering.
+- What Social Engineering is.
+- Information gathering techniques.
+- Creating a malicious file with MSFvenom.
+
+**Thoughts:** Drifted off a little :).
+
+**Link to work:**
+https://github.com/whoIsOneZero/panthera/tree/main/notes
