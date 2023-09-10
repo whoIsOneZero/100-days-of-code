@@ -86,3 +86,13 @@ https://github.com/whoIsOneZero/internship_cybersec/tree/master/bash_scripting/i
 
 **Link to work:**
 https://github.com/whoIsOneZero/panthera/tree/main/notes
+
+### Day 8: September 9, 2023.
+
+**Today's Progress**: Social Engineering.
+- More about the Metasploit framework and reverse TCP
+
+**Thoughts:** Interesting stuff.
+
+**Link to work:**
+https://github.com/whoIsOneZero/panthera/tree/main/notes
