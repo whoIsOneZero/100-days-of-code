@@ -96,3 +96,13 @@ https://github.com/whoIsOneZero/panthera/tree/main/notes
 
 **Link to work:**
 https://github.com/whoIsOneZero/panthera/tree/main/notes
+
+### Day 9: September 10, 2023.
+
+**Today's Progress**: Process management
+- Some basics functions used in Linux systems for process management.
+
+**Thoughts:** N/A.
+
+**Link to work:**
+https://github.com/whoIsOneZero/some-projects/tree/main/proc_mgmt
