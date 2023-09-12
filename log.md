@@ -106,3 +106,13 @@ https://github.com/whoIsOneZero/panthera/tree/main/notes
 
 **Link to work:**
 https://github.com/whoIsOneZero/some-projects/tree/main/proc_mgmt
+
+### Day 10: September 11, 2023.
+
+**Today's Progress**: Simple Shell
+- Learnt stuff needed to work on a team project.
+
+**Thoughts:** A challenging one.
+
+**Link to work:**
+https://github.com/whoIsOneZero/some-projects/tree/main/other
