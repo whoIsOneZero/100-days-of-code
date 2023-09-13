@@ -130,3 +130,14 @@ https://github.com/whoIsOneZero/some-projects/tree/main/other
 https://github.com/whoIsOneZero/internship_cybersec/tree/master/bash_scripting/if_else
 https://github.com/whoIsOneZero/internship_cybersec/tree/master/bash_scripting/case
 
+### Day 12: September 13, 2023.
+
+**Today's Progress**: Bash Scripting
+- Working with loops in Bash.
+- (while) loops.
+- Wrote some simple scripts for user registration (signup) and login functionality.
+
+**Thoughts:** Interesting stuff.
+
+**Link to work:**
+https://github.com/whoIsOneZero/internship_cybersec/tree/master/bash_scripting/loops
