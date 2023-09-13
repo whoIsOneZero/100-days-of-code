@@ -116,3 +116,17 @@ https://github.com/whoIsOneZero/some-projects/tree/main/proc_mgmt
 
 **Link to work:**
 https://github.com/whoIsOneZero/some-projects/tree/main/other
+
+### Day 11: September 12, 2023.
+
+**Today's Progress**: Bash Scripting
+- Working with conditional statments in Bash
+- (if-else) and (case)
+- Wrote a script for a simple questionnaire to check for user eligibility to book a table.
+- 
+**Thoughts:** A challenging one.
+
+**Link to work:**
+https://github.com/whoIsOneZero/internship_cybersec/tree/master/bash_scripting/if_else
+https://github.com/whoIsOneZero/internship_cybersec/tree/master/bash_scripting/case
+
