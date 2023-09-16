@@ -141,3 +141,16 @@ https://github.com/whoIsOneZero/internship_cybersec/tree/master/bash_scripting/c
 
 **Link to work:**
 https://github.com/whoIsOneZero/internship_cybersec/tree/master/bash_scripting/loops
+
+### Day 13: September 14, 2023.
+
+**Today's Progress**: Computer Networking.
+- Some basic concepts in Networking.
+- OSI model.
+- TCP/IP protocol.
+- Network devices, etc.
+
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/whoIsOneZero/internship_cybersec/tree/master/networking
