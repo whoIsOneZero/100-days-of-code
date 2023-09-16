@@ -154,3 +154,16 @@ https://github.com/whoIsOneZero/internship_cybersec/tree/master/bash_scripting/l
 
 **Link to work:**
 https://github.com/whoIsOneZero/internship_cybersec/tree/master/networking
+
+### Day 14: September 15, 2023.
+
+**Today's Progress**: Computer Networking.
+- IP addressing.
+- Network topologies.
+- Subnetting, etc.
+
+**Thoughts:** :D
+
+**Link to work:**
+https://github.com/whoIsOneZero/internship_cybersec/tree/master/networking
+
