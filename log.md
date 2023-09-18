@@ -167,3 +167,5 @@ https://github.com/whoIsOneZero/internship_cybersec/tree/master/networking
 **Link to work:**
 https://github.com/whoIsOneZero/internship_cybersec/tree/master/networking
 
+### Day 15: September 16, 2023.
+
