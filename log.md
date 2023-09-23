@@ -199,3 +199,24 @@ https://github.com/whoIsOneZero/simple_shell
 
 **Link to work:**
 https://github.com/whoIsOneZero/simple_shell
+
+### Day 18: September 19, 2023.
+
+**Today's Progress**: Computer Networking
+- Getting started with the Cisco Packet Tracer
+- Building a simple network and simulating an ICMP communication.
+
+**Thoughts:** cool stuff
+
+**Link to work:**
+https://github.com/whoIsOneZero/internship_cybersec/tree/master/networking/PacketTracing
+
+### Day 19: September 20, 2023.
+
+**Today's Progress**: Computer Networking
+- Dynamic Routing with the Cisco Packet Tracer.
+
+**Thoughts:** cool stuff
+
+**Link to work:**
+https://github.com/whoIsOneZero/internship_cybersec/tree/master/networking/PacketTracing
