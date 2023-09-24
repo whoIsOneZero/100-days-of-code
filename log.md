@@ -220,3 +220,36 @@ https://github.com/whoIsOneZero/internship_cybersec/tree/master/networking/Packe
 
 **Link to work:**
 https://github.com/whoIsOneZero/internship_cybersec/tree/master/networking/PacketTracing
+
+### Day 20: September 21, 2023.
+
+**Today's Progress**: ALX SE project.
+- A team project.
+- Building a simple shell using C lang.
+
+**Thoughts:** #DoHardThings
+
+**Link to work:**
+https://github.com/whoIsOneZero/simple_shell
+
+### Day 21: September 22, 2023.
+
+**Today's Progress**: ALX SE project.
+- A team project.
+- Building a simple shell using C lang.
+
+**Thoughts:** #DoHardThings
+
+**Link to work:**
+https://github.com/whoIsOneZero/simple_shell
+
+### Day 22: September 23, 2023.
+
+**Today's Progress**: ALX SE project.
+- A team project.
+- Building a simple shell using C lang.
+
+**Thoughts:** #DoHardThings
+
+**Link to work:**
+https://github.com/whoIsOneZero/simple_shell
