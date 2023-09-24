@@ -177,3 +177,25 @@ https://github.com/whoIsOneZero/internship_cybersec/tree/master/networking
 
 **Link to work:**
 https://github.com/whoIsOneZero/simple_shell
+
+### Day 16: September 17, 2023.
+
+**Today's Progress**: ALX SE project.
+- A team project.
+- Building a simple shell using C lang.
+
+**Thoughts:** #DoHardThings
+
+**Link to work:**
+https://github.com/whoIsOneZero/simple_shell
+
+### Day 17: September 18, 2023.
+
+**Today's Progress**: ALX SE project.
+- A team project.
+- Building a simple shell using C lang.
+
+**Thoughts:** #DoHardThings
+
+**Link to work:**
+https://github.com/whoIsOneZero/simple_shell
