@@ -253,3 +253,16 @@ https://github.com/whoIsOneZero/simple_shell
 
 **Link to work:**
 https://github.com/whoIsOneZero/simple_shell
+
+### Day 23: September 24, 2023.
+
+**Today's Progress**: Dart Programming
+- Revisited Dart concepts. Started from scratch.
+- Working with Dart in the terminal.
+- Created a new project.
+
+**Thoughts:** Dart is cool.
+
+**Link to work:**
+https://github.com/whoIsOneZero/some-projects/back2dart
+
