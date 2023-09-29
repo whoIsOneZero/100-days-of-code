@@ -271,11 +271,43 @@ https://github.com/whoIsOneZero/some-projects/tree/main/back2Dart
 **Today's Progress**: Certified Ethical Hacker (CEH)
 - Information gathering; passive footprinting.
 - Using tools like Shodan, netcraft, Censys, Sublist3r, Google Dorks.
-- 
+
 **Thoughts:** :)
 
 **Link to work:**
 https://github.com/whoIsOneZero/internship_cybersec/blob/master/CEH/footprinting1.txt
 
+### Day 25: September 26, 2023.
 
+**Today's Progress**: Certified Ethical Hacker (CEH)
+- Information gathering; passive footprinting.
+- Wordlists, Metadata and D.N.S. reconnaissance.
 
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/whoIsOneZero/internship_cybersec/blob/master/CEH/footprinting2.txt
+
+### Day 26: September 27, 2023.
+
+**Today's Progress**: Certified Ethical Hacker (CEH)
+- Information gathering and generating reports.
+- Using Maltego and recon-ng
+
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/whoIsOneZero/internship_cybersec/blob/master/CEH/footprinting3.txt
+
+### Day 27: September 28, 2023.
+
+**Today's Progress**: Certified Ethical Hacker (CEH)
+- Web application penetration testing.
+- Scanning with Nmap.
+- Burp Suite.
+
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/whoIsOneZero/internship_cybersec/blob/master/CEH/scanning.txt
+https://github.com/whoIsOneZero/internship_cybersec/blob/master/CEH/testing.txt
