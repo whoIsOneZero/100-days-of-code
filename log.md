@@ -266,3 +266,16 @@ https://github.com/whoIsOneZero/simple_shell
 **Link to work:**
 https://github.com/whoIsOneZero/some-projects/tree/main/back2Dart
 
+### Day 24: September 25, 2023.
+
+**Today's Progress**: Certified Ethical Hacker (CEH)
+- Information gathering; passive footprinting.
+- Using tools like Shodan, netcraft, Censys, Sublist3r, Google Dorks.
+- 
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/whoIsOneZero/internship_cybersec/blob/master/CEH/footprinting1.txt
+
+
+
