@@ -311,3 +311,45 @@ https://github.com/whoIsOneZero/internship_cybersec/blob/master/CEH/footprinting
 **Link to work:**
 https://github.com/whoIsOneZero/internship_cybersec/blob/master/CEH/scanning.txt
 https://github.com/whoIsOneZero/internship_cybersec/blob/master/CEH/testing.txt
+
+### Day 28: September 29, 2023.
+
+**Today's Progress**: Dart Programming.
+- Back to the basics.
+
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/whoIsOneZero/some-projects/tree/main/back2Dart
+
+### Day 29: September 30, 2023.
+
+**Today's Progress**: Dart Programming.
+- Back to the basics.
+
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/whoIsOneZero/some-projects/tree/main/back2Dart
+
+### Day 30: October 1, 2023.
+
+**Today's Progress**: Dart Programming.
+- Back to the basics.
+- The 'late' keyword
+
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/whoIsOneZero/some-projects/tree/main/back2Dart/late
+
+### Day 31: October 2, 2023.
+
+**Today's Progress**: Dart Programming.
+- Back to the basics.
+- The 'late' keyword
+
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/whoIsOneZero/some-projects/tree/main/back2Dart/late
