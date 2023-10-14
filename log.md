@@ -485,3 +485,13 @@ https://github.com/whoIsOneZero/alx-tasks_redo/tree/master/alx-higher_level_prog
 
 **Link to work:**
 https://github.com/whoIsOneZero/alx-tasks_redo/tree/master/alx-higher_level_programming/0x02-python-import_modules
+
+### Day 43: October 14, 2023.
+
+**Today's Progress**: C Programming.
+- Doubly linked lists
+
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/whoIsOneZero/alx-tasks_redo/tree/master/alx-low_level_programming/0x17-doubly_linked_lists
