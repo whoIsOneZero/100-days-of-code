@@ -357,7 +357,9 @@ https://github.com/whoIsOneZero/some-projects/tree/main/back2Dart/late
 ### Day 32: October 3, 2023.
 
 **Today's Progress**: Python Programming.
-- Hello, world.
+- Using the Python Interpreter
+- Introduction to Python
+- String formatters
 
 **Thoughts:** :)
 
@@ -442,6 +444,16 @@ https://github.com/whoIsOneZero/alx-higher_level_programming/tree/master/0x03-py
 - lists
 - tuples
 - sequences
+
+**Thoughts:** Really cool stuff
+
+**Link to work:**
+https://github.com/whoIsOneZero/alx-higher_level_programming/tree/master/0x03-python-
+
+### Day 40: October 11, 2023.
+
+**Today's Progress**: Python Programming.
+- Retaking the tasks.
 
 **Thoughts:** Really cool stuff
 
