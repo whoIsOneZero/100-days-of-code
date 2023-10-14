@@ -396,3 +396,54 @@ https://github.com/whoIsOneZero/alx-higher_level_programming/tree/master/0x01-py
 
 **Link to work:**
 https://github.com/whoIsOneZero/alx-higher_level_programming/tree/master/0x02-python-import_modules
+
+### Day 36: October 7, 2023.
+
+**Today's Progress**: Python Programming.
+- import statement
+- modules
+
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/whoIsOneZero/alx-higher_level_programming/tree/master/0x02-python-import_modules
+
+### Day 37: October 8, 2023.
+
+**Today's Progress**: Python Programming.
+- data structures:
+- lists
+- tuples
+- sequences
+
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/whoIsOneZero/alx-higher_level_programming/tree/master/0x03-python-data_structures
+
+### Day 38: October 9, 2023.
+
+**Today's Progress**: Python Programming.
+- data structures:
+- lists
+- tuples
+- sequences
+
+**Thoughts:** Cool stuff
+
+**Link to work:**
+https://github.com/whoIsOneZero/alx-higher_level_programming/tree/master/0x03-python-data_structures
+
+
+### Day 39: October 10, 2023.
+
+**Today's Progress**: Python Programming.
+- data structures:
+- lists
+- tuples
+- sequences
+
+**Thoughts:** Really cool stuff
+
+**Link to work:**
+https://github.com/whoIsOneZero/alx-higher_level_programming/tree/master/0x03-python-data_structures
