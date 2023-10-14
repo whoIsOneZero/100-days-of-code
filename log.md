@@ -454,8 +454,34 @@ https://github.com/whoIsOneZero/alx-higher_level_programming/tree/master/0x03-py
 
 **Today's Progress**: Python Programming.
 - Retaking the tasks.
+- Using the Python Interpreter
+- Introduction to Python
+- String formatters
 
 **Thoughts:** Really cool stuff
 
 **Link to work:**
-https://github.com/whoIsOneZero/alx-higher_level_programming/tree/master/0x03-python-data_structures
+https://github.com/whoIsOneZero/alx-tasks_redo/tree/master/alx-higher_level_programming/0x00-python-hello_world
+
+### Day 41: October 12, 2023.
+
+**Today's Progress**: Python Programming.
+- if-else
+- loops (for, while)
+- functions
+
+**Thoughts:** Really cool stuff
+
+**Link to work:**
+https://github.com/whoIsOneZero/alx-tasks_redo/tree/master/alx-higher_level_programming/0x01-python-if_else_loops_functions
+
+### Day 42: October 13, 2023.
+
+**Today's Progress**: Python Programming.
+- import statement
+- modules
+
+**Thoughts:** Really cool stuff
+
+**Link to work:**
+https://github.com/whoIsOneZero/alx-tasks_redo/tree/master/alx-higher_level_programming/0x02-python-import_modules
