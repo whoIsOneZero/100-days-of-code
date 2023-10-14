@@ -367,9 +367,32 @@ https://github.com/whoIsOneZero/alx-higher_level_programming/tree/master/0x00-py
 ### Day 33: October 4, 2023.
 
 **Today's Progress**: Python Programming.
-- if-else, and loops.
+- if-else, loops and functions
 
 **Thoughts:** :)
 
 **Link to work:**
 https://github.com/whoIsOneZero/alx-higher_level_programming/tree/master/0x01-python-if_else_loops_functions
+
+### Day 34: October 5, 2023.
+
+**Today's Progress**: Python Programming.
+- if-else
+- loops (for, while)
+- functions
+
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/whoIsOneZero/alx-higher_level_programming/tree/master/0x01-python-if_else_loops_functions
+
+### Day 35: October 6, 2023.
+
+**Today's Progress**: Python Programming.
+- import statement
+- modules
+
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/whoIsOneZero/alx-higher_level_programming/tree/master/0x02-python-import_modules
