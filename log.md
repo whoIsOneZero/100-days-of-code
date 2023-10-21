@@ -495,3 +495,64 @@ https://github.com/whoIsOneZero/alx-tasks_redo/tree/master/alx-higher_level_prog
 
 **Link to work:**
 https://github.com/whoIsOneZero/alx-tasks_redo/tree/master/alx-low_level_programming/0x17-doubly_linked_lists
+
+### Day 44: October 15, 2023.
+
+**Today's Progress**: C Programming.
+- Stacks and Queues
+- LIFO, FIFO
+
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/whoIsOneZero/monty
+
+### Day 45: October 16, 2023.
+
+**Today's Progress**: C Programming.
+- Stacks and Queues
+- LIFO, FIFO
+- BrainF**k
+
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/whoIsOneZero/monty
+
+### Day 45: October 16, 2023.
+
+**Today's Progress**: C Programming.
+- Stacks and Queues
+- LIFO, FIFO
+- BrainF**k
+
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/whoIsOneZero/monty
+
+### Day 46: October 17, 2023.
+
+**Today's Progress**: C Programming - project
+- Stacks and Queues
+- LIFO, FIFO
+- BrainF**k
+- Monty interpreter
+
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/whoIsOneZero/monty
+
+### Day 47: October 18, 2023.
+
+**Today's Progress**: C Programming.
+- Stacks and Queues
+- LIFO, FIFO
+- BrainF**k
+- Monty interpreter
+
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/whoIsOneZero/monty
