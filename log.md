@@ -556,3 +556,29 @@ https://github.com/whoIsOneZero/monty
 
 **Link to work:**
 https://github.com/whoIsOneZero/monty
+
+### Day 48: October 19, 2023.
+
+**Today's Progress**: C Programming.
+- Stacks and Queues
+- LIFO, FIFO
+- BrainF**k
+- Monty interpreter
+
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/whoIsOneZero/monty
+
+### Day 49: October 20, 2023.
+
+**Today's Progress**: C Programming.
+- Stacks and Queues
+- LIFO, FIFO
+- BrainF**k
+- Monty interpreter
+
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/whoIsOneZero/monty
