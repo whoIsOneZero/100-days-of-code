@@ -593,3 +593,57 @@ https://github.com/whoIsOneZero/monty
 
 **Link to work:**
 https://github.com/whoIsOneZero/alx-tasks_redo/tree/master/alx-higher_level_programming/0x03-python-data_structures
+
+### Day 51: October 22, 2023.
+
+**Today's Progress**: Exceptions - Python
+- try: / except:
+- finally:
+- raise:
+
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/whoIsOneZero/alx-tasks_redo/tree/master/alx-higher_level_programming/0x03-python-data_structures
+
+### Day 52: October 23, 2023.
+
+**Today's Progress**: Exceptions - Python
+- try: / except:
+- finally:
+- raise:
+
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/whoIsOneZero/alx-tasks_redo/tree/master/alx-higher_level_programming/0x05-python-exceptions
+
+### Day 53: October 24, 2023.
+
+**Today's Progress**: Object Oriented Programming - Python
+- classes, objects, fields, methods, etc.
+
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/whoIsOneZero/alx-tasks_redo/tree/master/alx-higher_level_programming/0x03-python-data_structures
+
+### Day 54: October 25, 2023.
+
+**Today's Progress**: Object Oriented Programming - Python
+- classes, objects, fields, methods, etc.
+
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/whoIsOneZero/alx-tasks_redo/tree/master/alx-higher_level_programming/0x03-python-data_structures
+
+### Day 55: October 26, 2023.
+
+**Today's Progress**: Object Oriented Programming - Python
+- classes, objects, fields, methods, etc.
+
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/whoIsOneZero/alx-tasks_redo/tree/master/alx-higher_level_programming/0x03-python-data_structures
