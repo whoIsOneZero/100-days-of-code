@@ -582,3 +582,14 @@ https://github.com/whoIsOneZero/monty
 
 **Link to work:**
 https://github.com/whoIsOneZero/monty
+
+### Day 50: October 21, 2023.
+
+**Today's Progress**: Data Structures - Python
+- Lists
+- Tuples
+
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/whoIsOneZero/alx-tasks_redo/tree/master/alx-higher_level_programming/0x03-python-data_structures
