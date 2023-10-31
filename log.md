@@ -659,3 +659,15 @@ https://github.com/whoIsOneZero/alx-tasks_redo/tree/master/alx-higher_level_prog
 
 **Link to work:**
 https://github.com/whoIsOneZero/alx-tasks_redo/tree/master/alx-higher_level_programming/0x05-python-exceptions
+
+### Day 57: October 28, 2023.
+
+**Today's Progress**: Classes - Python
+- Object-Oriented Programming, Python
+- Properties vs. Getters and Setters
+- Python Classes and Objects
+
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/whoIsOneZero/alx-tasks_redo/tree/master/alx-higher_level_programming/0x06-python-classes
