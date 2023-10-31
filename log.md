@@ -685,3 +685,17 @@ https://github.com/whoIsOneZero/alx-tasks_redo/tree/master/alx-higher_level_prog
 
 **Link to work:**
 https://github.com/whoIsOneZero/alx-tasks_redo/tree/master/alx-higher_level_programming/0x04-python-more_data_structures
+
+### Day 59: October 30, 2023.
+
+**Today's Progress**: Classes - Python
+- Object-Oriented Programming, Python
+- Class and Instance attributes
+- classmethods and staticmethods
+- Properties vs. Getters and Setters (Public instead of Private Attributes)
+- __str__ / (str) vs ___repr__ / (repr)
+
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/whoIsOneZero/alx-tasks_redo/tree/master/alx-higher_level_programming/0x04-python-more_data_structures
