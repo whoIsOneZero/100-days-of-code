@@ -647,3 +647,15 @@ https://github.com/whoIsOneZero/alx-tasks_redo/tree/master/alx-higher_level_prog
 
 **Link to work:**
 https://github.com/whoIsOneZero/alx-tasks_redo/tree/master/alx-higher_level_programming/0x03-python-data_structures
+
+### Day 56: October 27, 2023.
+
+**Today's Progress**: Exceptions - Python
+- What exceptions are.
+- The difference between errors and exceptions.
+- Correctly handling exceptions.
+
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/whoIsOneZero/alx-tasks_redo/tree/master/alx-higher_level_programming/0x03-python-data_structures
