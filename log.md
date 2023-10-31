@@ -658,4 +658,4 @@ https://github.com/whoIsOneZero/alx-tasks_redo/tree/master/alx-higher_level_prog
 **Thoughts:** :)
 
 **Link to work:**
-https://github.com/whoIsOneZero/alx-tasks_redo/tree/master/alx-higher_level_programming/0x03-python-data_structures
+https://github.com/whoIsOneZero/alx-tasks_redo/tree/master/alx-higher_level_programming/0x05-python-exceptions
