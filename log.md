@@ -789,3 +789,113 @@ https://github.com/whoIsOneZero/alx-higher_level_programming/tree/master/0x07-py
 
 **Link to work:**
 https://github.com/whoIsOneZero/alx-higher_level_programming/tree/master/0x07-python-test_driven_development
+
+### Day 66: November 6, 2023.
+
+**Today's Progress**: O.O.P - Everything is an object (Python)
+- What is an object
+- What is the difference between a class and an object or instance
+- What is the difference between immutable object and mutable object
+- What is a reference
+- What is an assignment
+- What is an alias
+- How to know if two variables are identical
+- How to know if two variables are linked to the same object
+- How to display the variable identifier (which is the memory address in the CPython implementation)
+- What is mutable and immutable
+- What are the built-in mutable types
+- What are the built-in immutable types
+- How does Python pass variables to functions
+
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/whoIsOneZero/alx-tasks_redo/tree/master/alx-higher_level_programming/0x09-python-everything_is_object
+
+### Day 67: November 7, 2023.
+
+**Today's Progress**: O.O.P - Everything is an object (Python)
+- What is an object
+- What is the difference between a class and an object or instance
+- What is the difference between immutable object and mutable object
+- What is a reference
+- What is an assignment
+- What is an alias
+- How to know if two variables are identical
+- How to know if two variables are linked to the same object
+- How to display the variable identifier (which is the memory address in the CPython implementation)
+- What is mutable and immutable
+- What are the built-in mutable types
+- What are the built-in immutable types
+- How does Python pass variables to functions
+
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/whoIsOneZero/alx-tasks_redo/tree/master/alx-higher_level_programming/0x09-python-everything_is_object
+
+### Day 68: November 8, 2023.
+
+**Today's Progress**: O.O.P - Everything is an object (Python)
+- What is an object
+- What is the difference between a class and an object or instance
+- What is the difference between immutable object and mutable object
+- What is a reference
+- What is an assignment
+- What is an alias
+- How to know if two variables are identical
+- How to know if two variables are linked to the same object
+- How to display the variable identifier (which is the memory address in the CPython implementation)
+- What is mutable and immutable
+- What are the built-in mutable types
+- What are the built-in immutable types
+- How does Python pass variables to functions
+
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/whoIsOneZero/alx-tasks_redo/tree/master/alx-higher_level_programming/0x09-python-everything_is_object
+
+### Day 69: November 9, 2023.
+
+**Today's Progress**: O.O.P - Everything is an object (Python)
+- What is an object
+- What is the difference between a class and an object or instance
+- What is the difference between immutable object and mutable object
+- What is a reference
+- What is an assignment
+- What is an alias
+- How to know if two variables are identical
+- How to know if two variables are linked to the same object
+- How to display the variable identifier (which is the memory address in the CPython implementation)
+- What is mutable and immutable
+- What are the built-in mutable types
+- What are the built-in immutable types
+- How does Python pass variables to functions
+
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/whoIsOneZero/alx-tasks_redo/tree/master/alx-higher_level_programming/0x09-python-everything_is_object
+
+### Day 70: November 10, 2023.
+
+**Today's Progress**: O.O.P - Everything is an object (Python)
+- What is an object
+- What is the difference between a class and an object or instance
+- What is the difference between immutable object and mutable object
+- What is a reference
+- What is an assignment
+- What is an alias
+- How to know if two variables are identical
+- How to know if two variables are linked to the same object
+- How to display the variable identifier (which is the memory address in the CPython implementation)
+- What is mutable and immutable
+- What are the built-in mutable types
+- What are the built-in immutable types
+- How does Python pass variables to functions
+
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/whoIsOneZero/alx-tasks_redo/tree/master/alx-higher_level_programming/0x09-python-everything_is_object
