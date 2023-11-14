@@ -899,3 +899,63 @@ https://github.com/whoIsOneZero/alx-tasks_redo/tree/master/alx-higher_level_prog
 
 **Link to work:**
 https://github.com/whoIsOneZero/alx-tasks_redo/tree/master/alx-higher_level_programming/0x09-python-everything_is_object
+
+### Day 71: November 11, 2023.
+
+**Today's Progress**: Inheritance - Python
+- What is a superclass, baseclass or parentclass
+- What is a subclass
+- How to list all attributes and methods of a class or instance
+- When can an instance have new attributes
+- How to inherit class from another
+- How to define a class with multiple base classes
+- What is the default class every class inherit from
+- How to override a method or attribute inherited from the base class
+- Which attributes or methods are available by heritage to subclasses
+- What is the purpose of inheritance
+- What are, when and how to use isinstance, issubclass, type and super built-in functions
+
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/whoIsOneZero/alx-tasks_redo/tree/master/alx-higher_level_programming/0x0A-python-inheritance
+
+### Day 72: November 12, 2023.
+
+**Today's Progress**: Inheritance - Python
+- What is a superclass, baseclass or parentclass
+- What is a subclass
+- How to list all attributes and methods of a class or instance
+- When can an instance have new attributes
+- How to inherit class from another
+- How to define a class with multiple base classes
+- What is the default class every class inherit from
+- How to override a method or attribute inherited from the base class
+- Which attributes or methods are available by heritage to subclasses
+- What is the purpose of inheritance
+- What are, when and how to use isinstance, issubclass, type and super built-in functions
+
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/whoIsOneZero/alx-tasks_redo/tree/master/alx-higher_level_programming/0x0A-python-inheritance
+
+### Day 73: November 13, 2023.
+
+**Today's Progress**: Inheritance - Python
+- What is a superclass, baseclass or parentclass
+- What is a subclass
+- How to list all attributes and methods of a class or instance
+- When can an instance have new attributes
+- How to inherit class from another
+- How to define a class with multiple base classes
+- What is the default class every class inherit from
+- How to override a method or attribute inherited from the base class
+- Which attributes or methods are available by heritage to subclasses
+- What is the purpose of inheritance
+- What are, when and how to use isinstance, issubclass, type and super built-in functions
+
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/whoIsOneZero/alx-tasks_redo/tree/master/alx-higher_level_programming/0x0A-python-inheritance
