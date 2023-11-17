@@ -959,3 +959,48 @@ https://github.com/whoIsOneZero/alx-tasks_redo/tree/master/alx-higher_level_prog
 
 **Link to work:**
 https://github.com/whoIsOneZero/alx-tasks_redo/tree/master/alx-higher_level_programming/0x0A-python-inheritance
+
+### Day 74: November 14, 2023.
+
+**Today's Progress**: Hash Tables implementation in C
+- What is a hash function
+- What makes a good hash function
+- What is a hash table, how do they work and how to use them
+- What is a collision and what are the main ways of dealing with collisions in the context of a hash table
+- What are the advantages and drawbacks of using hash tables
+- What are the most common use cases of hash tables
+
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/whoIsOneZero/alx-tasks_redo/tree/master/alx-higher_level_programming/0x0A-python-inheritance
+
+### Day 75: November 15, 2023.
+
+**Today's Progress**: Hash Tables implementation in C
+- What is a hash function
+- What makes a good hash function
+- What is a hash table, how do they work and how to use them
+- What is a collision and what are the main ways of dealing with collisions in the context of a hash table
+- What are the advantages and drawbacks of using hash tables
+- What are the most common use cases of hash tables
+
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/whoIsOneZero/alx-tasks_redo/tree/master/alx-higher_level_programming/0x0A-python-inheritance
+
+### Day 76: November 16, 2023.
+
+**Today's Progress**: Hash Tables implementation in C
+- What is a hash function
+- What makes a good hash function
+- What is a hash table, how do they work and how to use them
+- What is a collision and what are the main ways of dealing with collisions in the context of a hash table
+- What are the advantages and drawbacks of using hash tables
+- What are the most common use cases of hash tables
+
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/whoIsOneZero/alx-tasks_redo/tree/master/alx-higher_level_programming/0x0A-python-inheritance
