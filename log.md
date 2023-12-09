@@ -1136,3 +1136,241 @@ https://github.com/whoIsOneZero/sorting_algorithms
 
 **Link to work:**
 https://github.com/whoIsOneZero/sorting_algorithms
+
+### Day 87: November 27, 2023.
+**Today's Progress**: Dart programming
+- Data types
+- Loops, if-else
+- O.O.P
+- Asynchronous programming
+- Package management
+
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/whoIsOneZero/some-projects/tree/main/back2Dart
+
+### Day 88: November 28, 2023.
+
+**Today's Progress**: Processes and signals (DevOps, Shell scripting)
+- What is a PID
+- What is a process
+- How to find a process’ PID
+- How to kill a process
+- What is a signal
+- What are the 2 signals that cannot be ignored
+
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/whoIsOneZero/alx-system_engineering-devops/tree/master/0x05-processes_and_signals
+
+### Day 89: November 29, 2023.
+
+**Today's Progress**: Regular Expressions
+- Understanding meta-characters and operators
+- Pattern Matching
+- Text searching and manipulation
+- Efficient pattern creation
+- Avoiding pitfalls
+- Cross-language use
+
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/whoIsOneZero/alx-system_engineering-devops/tree/master/0x06-regular_expressions
+
+### Day 90: November 30, 2023.
+
+**Today's Progress**: Networking Fundamentals
+
+# Networking Basics
+Some fundamental Computer Networking concepts.
+Answers to questions and solutions to tasks.
+
+### The OSI Model
+- What it is
+- How many layers it has
+- How it is organized
+
+### What is a LAN
+- Typical usage
+- Typical geographical size
+
+### What is a WAN
+- Typical usage
+- Typical geographical size
+
+### What is the Internet
+- What is an IP address
+- What are the 2 types of IP address
+- What is localhost
+- What is a subnet
+- Why IPv6 was created
+
+### TCP/UDP
+- What are the 2 mainly used data transfer protocols for IP (transfer level on the OSI schema)
+- What is the main difference between TCP and UDP
+- What is a port
+- Memorize SSH, HTTP and HTTPS port numbers
+- What tool/protocol is often used to check if a device is connected to a network
+
+### Other
+- What is localhost/127.0.0.1
+- What is 0.0.0.0
+- What is /etc/hosts
+- How to display your machine’s active network interfaces
+
+**Thoughts:** :)
+
+**Link to work:** https://github.com/whoIsOneZero/alx-system_engineering-devops/tree/master/0x08-networking_basics_2
+https://github.com/whoIsOneZero/alx-system_engineering-devops/edit/master/0x07-networking_basics
+
+### Day 91: December 2, 2023.
+
+**Today's Progress**: Dart programming
+- Data types
+- Loops, if-else
+- O.O.P
+- Asynchronous programming
+- Package management
+
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/whoIsOneZero/some-projects/tree/main/back2Dart
+
+### Day 92: December 3, 2023.
+
+**Today's Progress**: Input/Output (Python)
+- How to open a file
+- How to write text in a file
+- How to read the full content of a file
+- How to read a file line by line
+- How to move the cursor in a file
+- How to make sure a file is closed after using it
+- What is and how to use the with statement
+- What is JSON
+- What is serialization
+- What is deserialization
+- How to convert a Python data structure to a JSON string
+- How to convert a JSON string to a Python data structure
+
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/whoIsOneZero/alx-tasks_redo/tree/master/alx-higher_level_programming/0x0B-python-input_output
+
+### Day 93: December 4, 2023.
+
+**Today's Progress**: AirBnB clone - The console (team project)
+- How to create a Python package
+- How to create a command interpreter in Python using the cmd module
+- What is Unit testing and how to implement it in a large project
+- How to serialize and deserialize a Class
+- How to write and read a JSON file
+- How to manage datetime
+- What is an UUID
+- What is *args and how to use it
+- What is **kwargs and how to use it
+- How to handle named arguments in a function
+
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/Lenny7120/AirBnB_clone
+
+### Day 94: December 5, 2023.
+
+**Today's Progress**: AirBnB clone - The console (team project)
+- How to create a Python package
+- How to create a command interpreter in Python using the cmd module
+- What is Unit testing and how to implement it in a large project
+- How to serialize and deserialize a Class
+- How to write and read a JSON file
+- How to manage datetime
+- What is an UUID
+- What is *args and how to use it
+- What is **kwargs and how to use it
+- How to handle named arguments in a function
+
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/Lenny7120/AirBnB_clone
+
+### Day 95: December 6, 2023.
+
+**Today's Progress**: AirBnB clone - The console (team project)
+- How to create a Python package
+- How to create a command interpreter in Python using the cmd module
+- What is Unit testing and how to implement it in a large project
+- How to serialize and deserialize a Class
+- How to write and read a JSON file
+- How to manage datetime
+- What is an UUID
+- What is *args and how to use it
+- What is **kwargs and how to use it
+- How to handle named arguments in a function
+
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/Lenny7120/AirBnB_clone
+
+### Day 96: December 7, 2023.
+
+**Today's Progress**: AirBnB clone - The console (team project)
+- How to create a Python package
+- How to create a command interpreter in Python using the cmd module
+- What is Unit testing and how to implement it in a large project
+- How to serialize and deserialize a Class
+- How to write and read a JSON file
+- How to manage datetime
+- What is an UUID
+- What is *args and how to use it
+- What is **kwargs and how to use it
+- How to handle named arguments in a function
+
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/Lenny7120/AirBnB_clone
+
+### Day 97: December 8, 2023.
+
+**Today's Progress**: AirBnB clone - The console (team project)
+- How to create a Python package
+- How to create a command interpreter in Python using the cmd module
+- What is Unit testing and how to implement it in a large project
+- How to serialize and deserialize a Class
+- How to write and read a JSON file
+- How to manage datetime
+- What is an UUID
+- What is *args and how to use it
+- What is **kwargs and how to use it
+- How to handle named arguments in a function
+
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/Lenny7120/AirBnB_clone
+
+### Day 98: December 9, 2023.
+
+**Today's Progress**: AirBnB clone - The console (team project)
+- How to create a Python package
+- How to create a command interpreter in Python using the cmd module
+- What is Unit testing and how to implement it in a large project
+- How to serialize and deserialize a Class
+- How to write and read a JSON file
+- How to manage datetime
+- What is an UUID
+- What is *args and how to use it
+- What is **kwargs and how to use it
+- How to handle named arguments in a function
+
+**Thoughts:** :)
+
+**Link to work:**
+https://github.com/Lenny7120/AirBnB_clone
